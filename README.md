@@ -24,8 +24,8 @@
 ![Revit API](https://img.shields.io/badge/Revit%20API-00274D?style=for-the-badge&logo=autodesk&logoColor=white)
 
 
-<!-- AI & Machine Learning -->
-#### 🤖 AI & Machine Learning
+<!-- AI  -->
+#### 🤖 AI 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-222222?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0Ij4KICA8cGF0aCBkPSJNMTIsMmE1LDUsMCAwLDEsNSw1YzAsMS4zLS41LDItMS42LDJsLTQuNCwwYTIuNywyLjcsMCAwLDAtMi4yLDEuMmEyLjgsMi44LDAsMCwwLTEuMywyLjNsMCw0LjNhMi43LDIuNywwLDAsMCwyLjcsMi43aDEuMmEyLjYsMi42LDAsMCwwLDIuNy0yLjZsMC00LjNhMi44LDIuOCwwLDAsMC0xLjMtMi4zbC00LjQsMGExLjgsMS44LDAsMCwxLTEuNi0yYzAtMS4yLjctMS45LDEuNy0xLjlsNC4zLDBhNC44LDQuOCwwLDAsMSw0LjctNEEyLjc1LDIuNzUsMCwwLDAsMTIsMloiIGZpbGw9IndoaXRlIi8+Cjwvc3ZnPgo=)
 ![Fine-tuning](https://img.shields.io/badge/Fine--Tuning-ff9f00?style=for-the-badge&logo=machinelearning&logoColor=white)
